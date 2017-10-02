@@ -16,7 +16,7 @@
 |		rc5.d		|Runlevel 5 mit Links auf die Dienste, die er startet|
 |/home				|Enthält die lokalen Nutzerverzeichnisse (Home-Directories)|
 |	opensuse		|Home-Verzeichnis des Benutzers ‚opensuse‘|
-|>>:tux				|Home-Verzeichnis des Benutzers ‚tux‘|
+|<dd>tux				|Home-Verzeichnis des Benutzers ‚tux‘|
 |/lib				|Enthält die gemeinsam genutzten Bibliotheken (shared libraries)|
 |/mnt	/media		|Mount-Verzeichnisse zum Einbinden anderer Dateisysteme|
 |/opt				|Zusätzliche, optionale Software, wie beispielsweise KDE, Gnome, Libre Office, …|
