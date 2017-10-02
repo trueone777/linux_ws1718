@@ -3,9 +3,7 @@
 |-------------------|---------------------------------------------------------------|
 |/   				|Das Wurzelverzeichnis											|
 |/boot 				|Enthält den bootfähigen Kernel und Dateien des Bootmanagers.	|
-|/bin  				|Binaries (Ausführbare Programme); enthält die wichtigsten Nutzer- und<br />
-					Administrator-Programme, die zur Systemwartung benötigt werden. Können<br />
-					von allen Usern ausgeführt werden.  							|
+|/bin  				|Binaries (Ausführbare Programme); enthält die wichtigsten Nutzer- und Administrator-Programme, die zur Systemwartung benötigt werden. Können von allen Usern ausgeführt werden.  							|
 |/dev  				|  																|
 |/etc  				|  																|
 |	printcap		|																|
