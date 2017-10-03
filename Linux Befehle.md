@@ -10,28 +10,25 @@
 |shutdown -r now|Rechner sofort neustarten / now kann auch eine Zeitangabe in [mm] sein|
 |shutdown -h now|Rechner sofort herunterfahren| 
 |Suchen| |
-whereis [PROGRAMM] |sucht in den Verzeichnissen der Umgebungsvariablen PATH nach [PROGRAMM]
-find . | grep [DATEI]|sucht ausgehend vom aktuellen Verzeichnis nach [DATEI]
-grep [SUCHSTRING] [DATEI]|durchsucht in einer DATEI nach dem Suchbegriff [SUCHSTRING]
-locate [DATEI]  |durchsucht die Locate-Datenbank nach [DATEI]
- | 
-  
-Programme starten| 
-[PROG]|Programm [PROG], welches sich im Pfad befindet, starten
-./[PROG] |Programm [PROG], welches sich im aktuellen Verzeichnis befindet, starten
-[PFAD]/[PROG]|Programm [PROG], welches sich im Verzeichnis [PFAD] befindet, starten
- | 
-  
-Navigation im Dateisystem| 
-pwd|gibt das aktuelle Verzeichnis aus
-cd / |wechselt ins Hauptverzeichnis
-cd ..  |wechselt in das übergeordnete Verzeichnis
-cd [VERZ] |wechselt ins Verzeichnis [VERZ]
-cd -|wechselt in das vorherige Verzeichnis
-cd   |wechselt ins Home-Verzeichnis des Benutzers
-cd ~  |wechselt ins Home-Verzeichnis des Benutzers
- | 
-  
+|whereis [PROGRAMM] |sucht in den Verzeichnissen der Umgebungsvariablen PATH nach [PROGRAMM]|
+|find . | grep [DATEI]|sucht ausgehend vom aktuellen Verzeichnis nach [DATEI]|
+|grep [SUCHSTRING] [DATEI]|durchsucht in einer DATEI nach dem Suchbegriff [SUCHSTRING]|
+|locate [DATEI]  |durchsucht die Locate-Datenbank nach [DATEI]| 
+|||
+|Programme starten| 
+|[PROG]|Programm [PROG], welches sich im Pfad befindet, starten|
+|./[PROG] |Programm [PROG], welches sich im aktuellen Verzeichnis befindet, starten|
+|[PFAD]/[PROG]|Programm [PROG], welches sich im Verzeichnis [PFAD] befindet, starten| 
+|||
+|Navigation im Dateisystem|
+|pwd|gibt das aktuelle Verzeichnis aus|
+|cd / |wechselt ins Hauptverzeichnis|
+|cd ..  |wechselt in das übergeordnete Verzeichnis|
+|cd [VERZ] |wechselt ins Verzeichnis [VERZ]|
+|cd -|wechselt in das vorherige Verzeichnis|
+|cd   |wechselt ins Home-Verzeichnis des Benutzers|
+|cd ~  |wechselt ins Home-Verzeichnis des Benutzers| 
+|||
 Dateien| 
 cat [DATEI] |zeigt den Inhalt der Datei [DATEI] auf dem Bildschirm an
 more [DATEI]|zeigt den Inhalt der Datei [DATEI] seitenweise an
