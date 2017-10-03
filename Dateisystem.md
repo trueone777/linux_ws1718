@@ -1,4 +1,4 @@
-# Das Dateisystem (openSuse)
+# Das Dateisystem
 |Verzeichnis		|Bedeutung|
 |-------------------|---------|
 |/   				|Das Wurzelverzeichnis|
