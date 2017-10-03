@@ -1,5 +1,4 @@
 # Aufgabenblatt 01
-## Author: <Martin Moje>
 **Aufgabe 1**
 Überprüfen Sie die in Ihrer Linux-Instanz aktuell verwendeten Laufwerke.<br />
 `Hier könnte deine Lösung stehen`
