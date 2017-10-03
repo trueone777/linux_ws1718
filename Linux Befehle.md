@@ -1,8 +1,7 @@
 # Wichtige Linux Befehle
 |Befehl		|Bedeutung|
 |-------------------|---------|
-|Basics||
-|-------------------|---------|
+|###Basics||
 |startx|startet grafische Benutzeroberfläche|
 |logout|abmelden von der Konsole|
 |[BEFEHL] --help|gibt Hilfetext zum [BEFEHL] aus|
