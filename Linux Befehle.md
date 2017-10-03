@@ -1,13 +1,15 @@
-Basics|
-startx|startet grafische Benutzeroberfläche
-logout|abmelden von der Konsole
-[BEFEHL] --help|gibt Hilfetext zum [BEFEHL] aus
-man [BEFEHL] |zeigt die Manual-Page zum [BEFEHL]
-info [BEFEHL] |zeigt Dokument zu [BEFEHL] im Info-System an
-shutdown -r now|Rechner sofort neustarten / now kann auch eine Zeitangabe in [mm] sein
-shutdown -h now|Rechner sofort herunterfahren
- | 
-Suchen| 
+# Wichtige Linux Befehle
+|Befehl		|Bedeutung|
+|-------------------|---------|
+|Basics||
+|startx|startet grafische Benutzeroberfläche|
+|logout|abmelden von der Konsole|
+|[BEFEHL] --help|gibt Hilfetext zum [BEFEHL] aus|
+|man [BEFEHL] |zeigt die Manual-Page zum [BEFEHL]|
+|info [BEFEHL] |zeigt Dokument zu [BEFEHL] im Info-System an|
+|shutdown -r now|Rechner sofort neustarten / now kann auch eine Zeitangabe in [mm] sein|
+|shutdown -h now|Rechner sofort herunterfahren| 
+|Suchen| |
 whereis [PROGRAMM] |sucht in den Verzeichnissen der Umgebungsvariablen PATH nach [PROGRAMM]
 find . | grep [DATEI]|sucht ausgehend vom aktuellen Verzeichnis nach [DATEI]
 grep [SUCHSTRING] [DATEI]|durchsucht in einer DATEI nach dem Suchbegriff [SUCHSTRING]
