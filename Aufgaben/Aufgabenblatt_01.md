@@ -7,7 +7,6 @@
 **Aufgabe 2**
 Laden Sie den Treiber für das Dateisystem xfs und überprüfen Sie anschließend ob dieser korrekt geladen wurde.<br />
 
-`sudo modprobe -v xfs`
 `sudo modprobe -v xfs && lsmod | grep xfs (anzeigen)`
 
 
