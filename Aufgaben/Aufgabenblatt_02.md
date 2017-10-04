@@ -1,7 +1,8 @@
 # Aufgabenblatt 02
 **Aufgabe 1**
 Navigieren sie in IHR home-Verzeichnis.<br />
-`Hier könnte deine Lösung stehen`
+
+cd ~
 
 **Aufgabe 2**
 Erstellen Sie das Verzeichnis „Playground“.<br />
