@@ -13,9 +13,9 @@ Welche anderen Verzeichnisse befinden sich innerhalb Ihres Home-Verzeichnisses?<
 `Hier könnte deine Lösung stehen`
 
 **Aufgabe 4**
-Welche Berechtigungen haben andere Benutzer auf den Ordner „Documents“?.<br />
+Welche Berechtigungen haben andere Benutzer auf den Ordner „Documents“?<br />
 `Hier könnte deine Lösung stehen`
 
 **Aufgabe 5**
-Erstellen Sie das Verzeichnis „Sandbox“ erneut..<br />
+Erstellen Sie das Verzeichnis „Sandbox“ erneut.<br />
 `Hier könnte deine Lösung stehen`
