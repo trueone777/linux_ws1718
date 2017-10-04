@@ -7,7 +7,7 @@
 |/dev  				|Enthält die Gerätedateien.|
 |/etc  				|Systemweit gültige Konfigurationsdateien.|
 |>>printcap		|Drucker-Konfiguration (ASP-Filter)|
-|>modules.conf	|Liste der ladbaren Module (Treiber)|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;modules.conf	|Liste der ladbaren Module (Treiber)|
 |<dd>passwd			|Liste der User (Login:Passwort:UID:GID:Name:Homeverzeichnis:Shell)|
 |<dd>hosts			|Datei für die lokale Namensauflösung (Name <- -> IP-Adresse)|
 |<dd>services		|Liste der Netzwerkdienste mit Portnummer und Protokoll|
