@@ -6,8 +6,8 @@
 |/bin  				|Binaries (Ausführbare Programme); enthält die wichtigsten Nutzer- und Administrator-Programme, die zur Systemwartung benötigt werden. Können von allen Usern ausgeführt werden.|
 |/dev  				|Enthält die Gerätedateien.|
 |/etc  				|Systemweit gültige Konfigurationsdateien.|
-|<dd>printcap		|Drucker-Konfiguration (ASP-Filter)|
-|<dd>modules.conf	|Liste der ladbaren Module (Treiber)|
+|>>printcap		|Drucker-Konfiguration (ASP-Filter)|
+|>modules.conf	|Liste der ladbaren Module (Treiber)|
 |<dd>passwd			|Liste der User (Login:Passwort:UID:GID:Name:Homeverzeichnis:Shell)|
 |<dd>hosts			|Datei für die lokale Namensauflösung (Name <- -> IP-Adresse)|
 |<dd>services		|Liste der Netzwerkdienste mit Portnummer und Protokoll|
