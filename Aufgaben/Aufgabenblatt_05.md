@@ -1,17 +1,8 @@
 # Aufgabenblatt 05
+Notieren Sie in der folgenden Aufgabe ihr Vorgehen für spezifische Problemfälle.
+
+Laden Sie aus Stud.IP die Datei „mail_an_olga“ auf Ihr Linux-System herunter und editieren Sie sie mit dem VIM. Versuchen Sie möglichst wenige Operationen für die Korrektur der Datei zu Benutzen.
+
 **Aufgabe 1**
-Lassen Sie für alle Partitionen die UUID anzeigen.<br />
-`Hier könnte deine Lösung stehen`
-
-**Aufgabe 2**
-Welche UUID und welches Dateisystem besitzt die Root-Partition?<br />
-`Hier könnte deine Lösung stehen`
-
-
-**Aufgabe 3**
-Erstellen Sie eine udev-Regel anhand sinnvoller Attribute für das DVD-Laufwerk.<br />
-`Hier könnte deine Lösung stehen`
-
-**Aufgabe 4**
-Erstellen Sie eine udev-Regel anhand sinnvoller Attribute für die Root-Partition.<br />
+Korrigieren Sie Syntax und Semantik der Datei, so dass deren Inhalt dem eines gewöhnlichen Postbriefes entspricht.<br />
 `Hier könnte deine Lösung stehen`
