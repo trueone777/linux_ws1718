@@ -1,6 +1,5 @@
 # Betriebssysteme Linux
 
-
 In der Vorlesung "Linux" soll folgender Stoff vermittelt werden:
 
 - Kenntnisse über Linux Dateisysteme
@@ -10,3 +9,4 @@ In der Vorlesung "Linux" soll folgender Stoff vermittelt werden:
 - Umgang mit Git
 
 Die Liste wird fortlaufend ergänzt.
+
