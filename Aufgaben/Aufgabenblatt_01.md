@@ -1,29 +1,21 @@
 # Aufgabenblatt 01
 **Aufgabe 1**
-Überprüfen Sie die in Ihrer Linux-Instanz aktuell verwendeten Laufwerke.
+Überprüfen Sie die in Ihrer Linux-Instanz aktuell verwendeten Laufwerke.<br />
 
-```bash
-sudo lshw -businfo | grep volume
-```
+`sudo lshw -businfo | grep volume`
 
 **Aufgabe 2**
-Laden Sie den Treiber für das Dateisystem xfs und überprüfen Sie anschließend ob dieser korrekt geladen wurde.
+Laden Sie den Treiber für das Dateisystem xfs und überprüfen Sie anschließend ob dieser korrekt geladen wurde.<br />
 
-```bash
-sudo modprobe -v xfs && lsmod | grep xfs
-```
+`sudo modprobe -v xfs && lsmod | grep xfs (anzeigen)`
 
 
 **Aufgabe 3**
-Von welchem Hersteller ist die verwendete PCI-Grafikkarte?
+Von welchem Hersteller ist die verwendete PCI-Grafikkarte?<br />
 
-```bash
-lspci | grep VGA
-```
+`lspci | grep VGA`
 
 **Aufgabe 4**
-Entfernen Sie den Dateisystemtreiber für xfs und überprüfen Sie ob er erfolgreich entfernt wurde.
+Entfernen Sie den Dateisystemtreiber für xfs und überprüfen Sie ob er erfolgreich entfernt wurde.<br />
 
-```bash
-sudo modprobe -vr xfs && lsmod | grep xfs
-```
+`sudo modprobe -vr xfs && lsmod | grep xfs (entfernen und prüfen ob es weg ist)`
