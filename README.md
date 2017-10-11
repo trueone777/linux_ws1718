@@ -7,6 +7,7 @@ In der Vorlesung "Linux" soll folgender Stoff vermittelt werden:
 - Erstellung von Shellscripten
 - Erstellen von Makefiles
 - Umgang mit Git
+- Linux Prozesse
 
 Die Liste wird fortlaufend ergänzt.
 
