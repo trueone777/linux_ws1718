@@ -4,4 +4,4 @@
 
 Legen Sie in Ihrem Sanbox-verzeichnis für jeden Benutzer, der ein Home-Verzeichnis besitzt, ein Verzeichnis an. Verwenden Sie als Datenquelle die Datei ***/etc/passwd***. Verwenden Sie exakt eine Kommandozeile.
 
-`Hier könnte deine Lösung stehen`
+`cd ~/Playground/Sandbox && mkdir $(cut -d: -f6 /etc/passwd | grep /home | cut -d/ -f3)`
