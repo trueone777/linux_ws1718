@@ -11,4 +11,4 @@ Gegeben ist der Text eines Kinderliedes (Drei Chinesen mit dem Kontrabass). Es w
 
 Verwenden Sie möglichst wenige Kommandos. Dokumentieren Sie Ihre Lösung.
 
-`Hier könnte deine Lösung stehen`
+`sed s/[aeiouäöü]/a/g < chinesen.txt >> a.txt`
