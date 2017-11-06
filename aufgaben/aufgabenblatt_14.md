@@ -7,7 +7,7 @@ Erstellen Sie ein Bash-Skript, das den Inhalt des /root-Verzeichnisses ausgibt. 
 ```
 #! /bin/bash
 
-ls /
+ls /root
 
 Danach Rechte setzen und Zugehörigkeit des Skriptes ändern:
 
