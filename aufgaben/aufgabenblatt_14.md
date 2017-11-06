@@ -7,12 +7,7 @@ Erstellen Sie ein Bash-Skript, das den Inhalt des /root-Verzeichnisses ausgibt. 
 ```
 #! /bin/bash
 
-ls /root
-
-Danach Rechte setzen und Zugehörigkeit des Skriptes ändern:
-
-chown root:root ./skript14.sh
-chmod u+x ./skript14.sh
+ls -la /root
 ```
 
 **Aufgabe 2**
