@@ -1,3 +1,4 @@
-#! /bin/bash/
+#! /bin/bash 
 
-ls /root 2> /dev/null; echo $?;
+ls -l  /root/ 2> /dev/null
+exit $?

@@ -4,7 +4,12 @@
 
 Schreiben Sie ein Skript, dass den Inhalt des Verzeichnisses /root ausgibt. Leiten Sie Fehlermeldungen zur Datei /dev/null um. Es soll ein passender Rückgabewert geliefert werden.
 
-`Hier könnte deine Lösung stehen`
+```
+#! bin/bash
+
+ls -l /root/ 2> /dev/null
+exit $? 
+```
 
 **Aufgabe 2**
 
