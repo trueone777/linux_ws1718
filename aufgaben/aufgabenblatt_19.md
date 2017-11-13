@@ -4,7 +4,7 @@
 
 Korrigieren Sie die Ausgabe des letzten Kommandos auf der vorherigen Seite dahingehend das die Ausgabe „1 Schaf springt über den Zaun" berücksichtigt.
 
-`Hier könnte deine Lösung stehen`
+`echo "1 Schaf" && seq -f "%1g Schafe" 2 10`
 
 **Aufgabe 2**
 
