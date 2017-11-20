@@ -8,7 +8,41 @@ Erstellen Sie ein Skript, welches die aktuelle Speicherplatzbelegung des Homelau
 - Bei Stop soll getestet werden ob eine Datei vorhanden ist und diese gelöscht werden
 - Bei Restart soll falls vorhanden die Datei gelöscht und neu erstellt werden.
 
-`Hier könnte deine Lösung stehen`
+```
+#! /bin/bash
+
+
+case "$1" IN
+	"start")
+	
+		if  touch -c ~/diskusage.txt 
+		 then
+			 du -hs ~ >> ~/diskusage.txt 2> /dev/null
+		 else
+			echo "Die Datei kann nicht erstellt werden"
+		 fi;;
+	
+	"stop")
+		if [ -w  ~/diskusage.txt ]
+		 then
+			rm ~/diskusage.txt 2> /dev/nulli
+		 else
+			echo "Die Datei exisitiert nicht oder kann nicht geloescht werden."
+		 fi;;
+
+	"restart") 
+		if [ -w ~/diskusage.txt ]
+		 then
+			rm ~/diskusage.txt 2> /dev/null
+			&& du -hs ~ >> ~/diskusage.txt 2> /dev/null
+		 else
+			echo "Datei exisitert nicht oder kann nicht geloescht werden."
+		fi;;	
+	 
+esac
+
+
+```
 
 **Aufgabe 2**
 
