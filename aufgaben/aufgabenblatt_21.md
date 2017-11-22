@@ -48,11 +48,37 @@ esac
 
 Erstellen Sie ein Startskript, welches bei den Runleveln 2-5 das eben erstellte Skript ausführt, bei allen anderen soll dieses gestoppt werden.
 
-`Hier könnte deine Lösung stehen`
+```
+#2 - Start/Stop Skript anlegen
+#! /bin/sh
+# BEGIN INIT INFO
+# Provides: du_home
+# Required-Start: $local_fs
+# Required-Stop: $local_fs
+# Default-Start: 2 3 4 5
+# Default-Stop: 0 1 6
+# Short-Description: Speicherplatz des eigenen Homelaufwerks
+# Description: Erstellt eine Datei in dem Homelaufwerk des Benutzers mit dem verwedeten Speicherplatz
+### END INIT INFO
+# Author: Pawel Rabinovic <rabinovp@hochschule-trier.de>
+
+#Aktion
+case "$1" in
+        start )
+                /usr/local/bin/a21.sh start;;
+        stop )
+                /usr/local/bin/a21.sh stop;;
+        restart )
+                /usr/local/bin/a21.sh restart;;
+esac
+
+exit 0
+
+```
 
 
 **Aufgabe 3**
 
 Aktuallisieren Sie die Runlevel mittels **update-rc.d**
 
-`Hier könnte deine Lösung stehen`
+`sudo update-rc.d du_home defaults`
