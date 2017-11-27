@@ -1,0 +1,788 @@
+/home/trueone/c:tempdb_ws1617.log
+/home/trueone/examples.desktop
+/home/trueone/get-docker.sh
+/home/trueone/kap01_helloworld.sql
+/home/trueone/kap02_bmi.sql
+/home/trueone/kap04_bmi_case.sql
+/home/trueone/kap04_bmi_for.sql
+/home/trueone/kap04_bmi_loop.sql
+/home/trueone/kap04_bmi_while.sql
+/home/trueone/login.sql
+/home/trueone/ls
+/home/trueone/tutorium.sql
+
+/home/trueone/_apt:
+.
+..
+
+/home/trueone/avahi:
+.
+..
+
+/home/trueone/avahi-autoipd:
+.
+..
+
+/home/trueone/backup:
+.
+..
+
+/home/trueone/Bilder:
+.
+..
+
+/home/trueone/bin:
+.
+..
+
+/home/trueone/colord:
+.
+..
+
+/home/trueone/daemon:
+.
+..
+
+/home/trueone/dnsmasq:
+.
+..
+
+/home/trueone/Dokumente:
+db-ueb3
+ubuntu-kurs
+SQL-Abfragen
+vim-tut
+docker
+pl-sql
+sql-config
+.
+linux_ws1718
+FGWI
+tgdb_ws1718
+HelloWorld.java
+js-seltsame-teile
+Datenbanken
+HelloWorld.class
+git-tut
+..
+
+/home/trueone/Downloads:
+M2_Beispiel_PEP.xlsx
+git_-_setup_upstream.mp4
+linux_ws1718-ee0e65588a9dd552172bc4053dadae65dca40ac4.zip
+dia_0.97.2-5_i386.deb
+Erstellen_eigener_Themes.pptx
+IUR_1_Aufgaben.pdf
+eclipse-inst-linux64.tar.gz
+.
+git_-_rebase_and_merge_with_meld.mp4
+instantclient-basic-linux.x64-12.2.0.1.0.zip
+IUR_1_Loesungen_Kap32_korr.pdf
+015-Some-Test-Data.sql
+db_ws1718.sql
+normalisierung.dia
+schleifenUebungen
+040-Health-Database.sql
+jetbrains-toolbox-1.4.2492.tar.gz
+db_klausurvorbereitung_unterlagen.zip
+Code018.zip
+..
+instantclient-sqlplus-linux.x64-12.2.0.1.0.zip
+Code066.zip
+
+/home/trueone/dumps:
+tutorial12.sql
+.
+temp.sql
+..
+
+/home/trueone/eclipse:
+eclipse
+.
+..
+
+/home/trueone/eclipse-workspace:
+.
+uebungen
+.recommenders
+.metadata
+HelloWorld
+..
+
+/home/trueone/games:
+.
+..
+
+/home/trueone/gnats:
+.
+..
+
+/home/trueone/hplip:
+.
+..
+
+/home/trueone/irc:
+.
+..
+
+/home/trueone/kernoops:
+.
+..
+
+/home/trueone/lightdm:
+.
+..
+
+/home/trueone/list:
+.
+..
+
+/home/trueone/lp:
+.
+..
+
+/home/trueone/mail:
+.
+..
+
+/home/trueone/man:
+.
+..
+
+/home/trueone/messagebus:
+.
+..
+
+/home/trueone/More Moor:
+.
+..
+
+/home/trueone/Musik:
+.
+..
+
+/home/trueone/mysql:
+.
+..
+
+/home/trueone/news:
+.
+..
+
+/home/trueone/Öffentlich:
+.
+..
+
+/home/trueone/oradiag_trueone:
+.
+diag
+..
+
+/home/trueone/Playground:
+systemd-network
+daemon
+uuidd
+usbmux
+list
+mail
+avahi
+games
+www-data
+dnsmasq
+irc
+kernoops
+Sandbox
+whoopsie
+lp
+backup
+messagebus
+systemd-timesync
+man
+mysql
+saned
+trueone
+tux}
+systemd-resolve
+gnats
+speech-dispatcher
+_apt
+bin
+uucp
+.
+nobody
+systemd-bus-proxy
+sync
+sys
+lightdm
+hplip
+news
+syslog
+colord
+rtkit
+pulse
+..
+proxy
+avahi-autoipd
+
+/home/trueone/proxy:
+.
+..
+
+/home/trueone/pulse:
+.
+..
+
+/home/trueone/rtkit:
+.
+..
+
+/home/trueone/saned:
+.
+..
+
+/home/trueone/Schreibtisch:
+aufgaben
+.
+Eclipse
+..
+
+/home/trueone/speech-dispatcher:
+.
+..
+
+/home/trueone/sync:
+.
+..
+
+/home/trueone/sys:
+.
+..
+
+/home/trueone/syslog:
+.
+..
+
+/home/trueone/systemd-bus-proxy:
+.
+..
+
+/home/trueone/systemd-network:
+.
+..
+
+/home/trueone/systemd-resolve:
+.
+..
+
+/home/trueone/systemd-timesync:
+.
+..
+
+/home/trueone/test:
+systemd-network
+daemon
+uuidd
+usbmux
+list
+mail
+avahi
+games
+www-data
+dnsmasq
+irc
+kernoops
+whoopsie
+lp
+backup
+messagebus
+systemd-timesync
+man
+mysql
+saned
+trueone
+tux}
+systemd-resolve
+gnats
+speech-dispatcher
+_apt
+bin
+uucp
+.
+nobody
+systemd-bus-proxy
+sync
+sys
+lightdm
+hplip
+news
+syslog
+colord
+rtkit
+pulse
+..
+proxy
+avahi-autoipd
+
+/home/trueone/trueone:
+.
+..
+
+/home/trueone/tux:
+.
+..
+
+/home/trueone/usbmux:
+.
+..
+
+/home/trueone/uucp:
+.
+..
+
+/home/trueone/uuidd:
+.
+..
+
+/home/trueone/Videos:
+.
+..
+
+/home/trueone/Vorlagen:
+.
+..
+
+/home/trueone/WebstormProjects:
+untitled
+.
+untitled1
+..
+
+/home/trueone/whoopsie:
+.
+..
+
+/home/trueone/www-data:
+.
+..
+-rw-rw-r--  1 trueone trueone  4446 Okt  5 16:01 /home/trueone/c:tempdb_ws1617.log
+-rw-r--r--  1 trueone trueone  8980 Okt  2 23:56 /home/trueone/examples.desktop
+-rw-rw-r--  1 trueone trueone 17887 Okt 17 22:14 /home/trueone/get-docker.sh
+-rw-rw-r--  1 trueone trueone    94 Okt 20 22:56 /home/trueone/kap01_helloworld.sql
+-rw-rw-r--  1 trueone trueone   747 Okt 21 20:25 /home/trueone/kap02_bmi.sql
+-rw-rw-r--  1 trueone trueone   888 Okt 21 20:48 /home/trueone/kap04_bmi_case.sql
+-rw-rw-r--  1 trueone trueone  1108 Okt 21 21:14 /home/trueone/kap04_bmi_for.sql
+-rw-rw-r--  1 trueone trueone   940 Okt 21 21:00 /home/trueone/kap04_bmi_loop.sql
+-rw-rw-r--  1 trueone trueone   933 Okt 21 21:03 /home/trueone/kap04_bmi_while.sql
+-rw-rw-r--  1 trueone trueone    15 Okt 21 02:58 /home/trueone/login.sql
+-rw-rw-r--  1 trueone trueone     0 Okt 16 15:59 /home/trueone/ls
+-rw-rw-r--  1 trueone trueone 24350 Okt 15 14:14 /home/trueone/tutorium.sql
+
+/home/trueone/_apt:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/avahi:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/avahi-autoipd:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/backup:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/Bilder:
+insgesamt 8
+drwxr-xr-x  2 trueone trueone 4096 Okt  3 00:28 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/bin:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/colord:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/daemon:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/dnsmasq:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/Dokumente:
+insgesamt 72
+drwxr-xr-x 11 trueone trueone 4096 Nov 16 21:36 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+drwxrwxr-x  4 trueone trueone 4096 Nov 25 23:59 Datenbanken
+-rw-rw-r--  1 trueone trueone 3663 Okt 20 02:15 db-ueb3
+drwxrwxr-x  3 trueone trueone 4096 Okt 17 21:42 docker
+drwxrwxr-x  2 trueone trueone 4096 Nov 10 15:36 FGWI
+drwxrwxr-x  3 trueone trueone 4096 Okt 23 14:46 git-tut
+-rw-rw-r--  1 trueone trueone  424 Nov 10 16:08 HelloWorld.class
+-rw-rw-r--  1 trueone trueone  114 Nov 10 16:07 HelloWorld.java
+drwxrwxr-x  4 trueone trueone 4096 Nov 17 01:53 js-seltsame-teile
+drwxrwxr-x  4 trueone trueone 4096 Nov 13 23:27 linux_ws1718
+-rw-rw-r--  1 trueone trueone 6396 Nov 16 21:36 pl-sql
+-rw-rw-r--  1 trueone trueone 3822 Nov 13 18:11 SQL-Abfragen
+-rw-rw-r--  1 trueone trueone   60 Okt 13 18:38 sql-config
+drwxrwxr-x 13 trueone trueone 4096 Nov 25 20:15 tgdb_ws1718
+drwxrwxr-x  5 trueone trueone 4096 Okt  4 15:22 ubuntu-kurs
+drwxrwxr-x  3 trueone trueone 4096 Nov  2 21:13 vim-tut
+
+/home/trueone/Downloads:
+insgesamt 271520
+drwxr-xr-x  3 trueone trueone     4096 Nov 27 16:01 .
+drwxr-xr-x 82 trueone trueone     4096 Nov 27 21:36 ..
+-rw-rw-r--  1 trueone trueone     2205 Okt  8 00:20 015-Some-Test-Data.sql
+-rw-rw-r--  1 trueone trueone    15425 Okt 17 01:31 040-Health-Database.sql
+-rw-rw-r--  1 trueone trueone     1718 Nov 14 00:09 Code018.zip
+-rw-rw-r--  1 trueone trueone     1744 Nov 17 01:46 Code066.zip
+-rw-rw-r--  1 trueone trueone   389402 Nov  5 21:49 db_klausurvorbereitung_unterlagen.zip
+-rw-rw-r--  1 trueone trueone    30627 Okt  5 16:00 db_ws1718.sql
+-rw-rw-r--  1 trueone trueone   200610 Okt  5 22:48 dia_0.97.2-5_i386.deb
+-rw-rw-r--  1 trueone trueone 48022873 Okt  3 23:43 eclipse-inst-linux64.tar.gz
+-rw-rw-r--  1 trueone trueone   430591 Nov 27 15:59 Erstellen_eigener_Themes.pptx
+-rw-rw-r--  1 trueone trueone 50506970 Okt  9 22:19 git_-_rebase_and_merge_with_meld.mp4
+-rw-rw-r--  1 trueone trueone 37945362 Okt  9 22:18 git_-_setup_upstream.mp4
+-rw-rw-r--  1 trueone trueone 68965195 Okt  3 01:26 instantclient-basic-linux.x64-12.2.0.1.0.zip
+-rw-rw-r--  1 trueone trueone   904309 Okt  3 01:25 instantclient-sqlplus-linux.x64-12.2.0.1.0.zip
+-rw-rw-r--  1 trueone trueone  2750377 Nov 21 14:46 IUR_1_Aufgaben.pdf
+-rw-rw-r--  1 trueone trueone   102964 Nov 21 14:49 IUR_1_Loesungen_Kap32_korr.pdf
+-rw-rw-r--  1 trueone trueone 67604456 Okt 19 15:56 jetbrains-toolbox-1.4.2492.tar.gz
+-rw-rw-r--  1 trueone trueone    69421 Okt 30 16:08 linux_ws1718-ee0e65588a9dd552172bc4053dadae65dca40ac4.zip
+-rw-rw-r--  1 trueone trueone     9693 Nov 19 02:01 M2_Beispiel_PEP.xlsx
+-rw-rw-r--  1 trueone trueone     2529 Okt 10 00:27 normalisierung.dia
+drwxrwxr-x  2 trueone trueone     4096 Okt 20 18:26 schleifenUebungen
+
+/home/trueone/dumps:
+insgesamt 16
+drwxrwxr-x  2 trueone trueone 4096 Okt  8 00:09 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+-rw-rw-r--  1 trueone trueone 1930 Okt  8 00:09 temp.sql
+-rw-rw-r--  1 trueone trueone 1930 Okt  7 23:44 tutorial12.sql
+
+/home/trueone/eclipse:
+insgesamt 12
+drwxrwxr-x  3 trueone trueone 4096 Okt  3 23:50 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+drwxrwxr-x  6 trueone trueone 4096 Nov 21 14:56 eclipse
+
+/home/trueone/eclipse-workspace:
+insgesamt 24
+drwxrwxr-x  6 trueone trueone 4096 Okt 20 16:06 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+drwxrwxr-x  5 trueone trueone 4096 Okt  3 23:56 HelloWorld
+drwxrwxr-x  4 trueone trueone 4096 Okt 20 18:36 .metadata
+drwxrwxr-x  4 trueone trueone 4096 Okt 20 16:32 .recommenders
+drwxrwxr-x  5 trueone trueone 4096 Okt 20 16:06 uebungen
+
+/home/trueone/games:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/gnats:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/hplip:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/irc:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/kernoops:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/lightdm:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/list:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/lp:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/mail:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/man:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/messagebus:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/More Moor:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 18:28 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/Musik:
+insgesamt 8
+drwxr-xr-x  2 trueone trueone 4096 Okt  3 00:28 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/mysql:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/news:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/Öffentlich:
+insgesamt 8
+drwxr-xr-x  2 trueone trueone 4096 Okt  3 00:28 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/oradiag_trueone:
+insgesamt 12
+drwxrwxr-x  3 trueone trueone 4096 Okt 12 20:27 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+drwxrwxr-x  3 trueone trueone 4096 Okt  5 20:48 diag
+
+/home/trueone/Playground:
+insgesamt 176
+drwxrwxr-x 44 trueone trueone    4096 Okt 18 21:35 .
+drwxr-xr-x 82 trueone trueone    4096 Nov 27 21:36 ..
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 _apt
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 avahi
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 avahi-autoipd
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 backup
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 bin
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 colord
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 daemon
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 dnsmasq
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 games
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 gnats
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 hplip
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 irc
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 kernoops
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 lightdm
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 list
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 lp
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 mail
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 man
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 messagebus
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 mysql
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 news
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 nobody
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 proxy
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 pulse
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 rtkit
+drwxrwsr-x  5 trueone testgruppe 4096 Okt 30 22:32 Sandbox
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 saned
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 speech-dispatcher
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 sync
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 sys
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 syslog
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 systemd-bus-proxy
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 systemd-network
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 systemd-resolve
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 systemd-timesync
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 trueone
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 tux}
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 usbmux
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 uucp
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 uuidd
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 whoopsie
+drwxrwxr-x  2 trueone trueone    4096 Okt 18 21:35 www-data
+
+/home/trueone/proxy:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/pulse:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/rtkit:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/saned:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/Schreibtisch:
+insgesamt 12
+drwxr-xr-x  3 trueone trueone 4096 Nov 17 21:24 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+drwxrwxr-x  2 trueone trueone 4096 Okt 30 16:08 aufgaben
+lrwxrwxrwx  1 trueone trueone   37 Okt  4 14:14 Eclipse -> /home/trueone/eclipse/eclipse/eclipse
+
+/home/trueone/speech-dispatcher:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/sync:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/sys:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/syslog:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/systemd-bus-proxy:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/systemd-network:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/systemd-resolve:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/systemd-timesync:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/test:
+insgesamt 172
+drwxrwxr-x 43 trueone trueone 4096 Okt 18 21:35 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 _apt
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 avahi
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 avahi-autoipd
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 backup
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 bin
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 colord
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 daemon
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 dnsmasq
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 games
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 gnats
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 hplip
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 irc
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 kernoops
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 lightdm
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 list
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 lp
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 mail
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 man
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 messagebus
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 mysql
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 news
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 nobody
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 proxy
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 pulse
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 rtkit
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 saned
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 speech-dispatcher
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 sync
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 sys
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 syslog
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 systemd-bus-proxy
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 systemd-network
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 systemd-resolve
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 systemd-timesync
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 trueone
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 tux}
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 usbmux
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 uucp
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 uuidd
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 whoopsie
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:35 www-data
+
+/home/trueone/trueone:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/tux:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/usbmux:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/uucp:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/uuidd:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/Videos:
+insgesamt 8
+drwxr-xr-x  2 trueone trueone 4096 Okt  3 00:28 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/Vorlagen:
+insgesamt 8
+drwxr-xr-x  2 trueone trueone 4096 Okt  3 00:28 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/WebstormProjects:
+insgesamt 16
+drwxrwxr-x  4 trueone trueone 4096 Okt 24 23:57 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+drwxrwxr-x  3 trueone trueone 4096 Okt 19 16:15 untitled
+drwxrwxr-x  3 trueone trueone 4096 Okt 25 00:08 untitled1
+
+/home/trueone/whoopsie:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
+
+/home/trueone/www-data:
+insgesamt 8
+drwxrwxr-x  2 trueone trueone 4096 Okt 18 21:15 .
+drwxr-xr-x 82 trueone trueone 4096 Nov 27 21:36 ..
