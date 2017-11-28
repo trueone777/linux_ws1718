@@ -21,7 +21,11 @@ then
 	fi
 
 	sudo tar -czf /var/backups/userbackup/$1/$(date +%d-%m-%y-%H-%M).tar /home/$1/*
-	echo "Backup wurde erstellt!" 
+	echo "Backup wurde erstellt!"
+else 
+	echo "Kein Benutzer vorhanden"
+	exit 1; 
+
 fi
 
 exit 0;
