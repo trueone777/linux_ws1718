@@ -8,38 +8,38 @@ modprobe -r pcnet32
 
 Was haben Sie soeben durchgeführt?
 
-`Hier könnte deine Lösung stehen`
+`Deaktivieren des Netzwerkadapters und des Netzwerktreibers`
 
 **Aufgabe 2**
 
 Was zeigt das Kommando **ifconfig** und **route** Ihnen nun bzgl. eht0 an?
 
-`Hier könnte deine Lösung stehen`
+`Das Netzwerkinterface taucht nicht mehr auf und es wird keine Routingtabelle angezeigt`
 
 
 **Aufgabe 3**
 
 Wie können Sie dies wieder beheben?
 
-`Hier könnte deine Lösung stehen`
+`ifconfig eth0 up modprobe -v pcnet32`
 
 
 **Aufgabe 4**
 
 Aktivieren Sie die Netzwerkkarte wieder. Wie sieht die Routingtabelle aus?
 
-`Hier könnte deine Lösung stehen`
+`Da sind wieder Werte eingetragen`
 
 
 **Aufgabe 5**
 
 Machen Sie die Netzwerkverbindung wieder gangbar.
 
-`Hier könnte deine Lösung stehen`
+`siehe oben`
 
 
 **Aufgabe 6**
 
 Überprüfen Sie die Funktion der Karte, indem Sie Google anpingen. Wie sieht ihre Routingtabelle nun aus? Was schließen Sie allgemein daraus?
 
-`Hier könnte deine Lösung stehen`
+`Unverändert aber normalerweise wird use hochgezählt`

@@ -4,38 +4,39 @@
 
 Machen Sie einen ping auf den Host mbc.fh-trier.de . Wie ist seine IP-Adresse?
 
-`Hier könnte deine Lösung stehen`
+`143.93.51.132`
 
 **Aufgabe 2**
 
 Prüfen Sie nun die IP-Adresse des Hosts mbc.fh-trier.de über nslookup. Welches Resultat erhalten Sie?
 
-`Hier könnte deine Lösung stehen`
+`gleiche IP Adresse`
 
 
 **Aufgabe 3**
 
 Wie ist der Hostname ihres Systems?
 
-`Hier könnte deine Lösung stehen`
+`hostname`
 
 
 **Aufgabe 4**
 
 Machen Sie einen ping auf Ihren Hostname. Wie ist seine IP-Adresse?
 
-`Hier könnte deine Lösung stehen`
+`127.0.1.1`
 
 
 **Aufgabe 5**
 
 Prüfen Sie nun die IP-Adresse Ihres Hosts über nslookup. Welches Resultat erhalten Sie?
 
-`Hier könnte deine Lösung stehen`
+``
 
 
 **Aufgabe 6**
 
 Was folgern Sie aus den beiden Resultaten?
 
-`Hier könnte deine Lösung stehen`
+`ping schaut immer zuerst in der /etc/host datei nach und 
+fragt danach den DNS Server, nslookup fragt DIREKT den DNS Server`
