@@ -11,10 +11,10 @@ Z-1433-A
 
 Entwerfen Sie einen Regulären Ausdruck, der diese Muster korrekt erkennt (zu testen z. B. mit **echo A-9445-17 | grep … )**.
 
-`Hier könnte deine Lösung stehen`
+`echo A-9445-17 | grep '[A-Z]-[0-9]\{4\}-[0-9A-F]\{1,2\}'`
 
 **Aufgabe 2**
 
 Laden Sie mittels Firefox die Datei regextest aus StudIP herunter und wenden Sie ihre Lösung auf die gesamte Datei an. Welche Ausdrücke entsprechen nicht dem Muster?
 
-`Hier könnte deine Lösung stehen`
+`cat regextest | grep -v  '[A-Z]-[0-9]\{4\}-[0-9A-F]\{1,2\}'`
