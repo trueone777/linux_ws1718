@@ -3,7 +3,7 @@
 Erstellen Sie ein Backup-Skript, das das Home-Verzeichnis des übergebenen Benutzernamens sichert. Dokumentieren Sie ihr Vorgehen ausführlich.
 
 ```
-#! /bin/bash
+#!/bin/bash
 
 #Prüfen ob der Benutzer existiert
 if [ $(find /home -maxdepth 1 -name $1 -type d) ]
