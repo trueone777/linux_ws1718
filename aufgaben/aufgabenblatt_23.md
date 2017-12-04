@@ -22,7 +22,7 @@ then
         if [ $(find /var/backups/userbackup/$1  -name *.tar -mmin +5) ]
         then
                 echo "Lösche altes Backup..."
-                sudo rm /var/backups/userbackup/$1/*.tar
+                echo $(find /var/backups/userbackup/$1  -name *.tar -mmin +5) | xargs -0 rm
         fi
 
         sudo tar -czf /var/backups/userbackup/$1/$(date +%d-%m-%y-%H-%M).tar /home/$1/*
