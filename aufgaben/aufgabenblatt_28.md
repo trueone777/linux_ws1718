@@ -4,24 +4,29 @@
 
 Sichern Sie Ihre aktuelle IPtables-Konfiguration in eine Datei unter einem angemessenem Verzeichnis.
 
-`Hier könnte deine Lösung stehen`
+`sudo bash -c "iptables-save > /etc/iptables_backup"`
 
 **Aufgabe 2**
 
 Überprüfen Sie, ob die Datei vorhanden ist. Wer ist Eigentümer dieser Datei?
 
-`Hier könnte deine Lösung stehen`
+`test -f  /etc/iptables_backup && echo file exists || echon file not found
+ ls -l /etc/iptables_backup
+Der Eigentümer ist root`
 
 
 **Aufgabe 3**
 
 Löschen Sie alle Regeln aller Ketten der IPtables-Firewall anhand der Befehlsreferenz. Wie überprüfen Sie, ob alle Regeln gelöscht wurden?
 
-`Hier könnte deine Lösung stehen`
+`iptables -F INPUT
+iptables -F OUTPUT
+iptables -F FORWARD
+iptables -L`
 
 
 **Aufgabe 4**
 
 Spielen Sie das Backup wieder ein. 
 
-`Hier könnte deine Lösung stehen`
+`sudo iptables-restore < /etc/iptables_backup `

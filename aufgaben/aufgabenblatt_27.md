@@ -4,11 +4,11 @@
 
 Welche Einträge über die Firewall finden Sie in der entsprechenden Log-Datei?
 
-`Hier könnte deine Lösung stehen`
+`Abgelehnte oder durch die Firewall Verbindungen`
 
 **Aufgabe 2**
 
 Sehen Sie besorgniserregende Einträge in der Log-Datei, welche die Firewall betreffen? Falls ja, deuten und erörtern Sie diese. Welche Quellen haben Sie herangezogen?
 
-`Hier könnte deine Lösung stehen`
+`Warum sehen wir keine? Weil wir keine definiert haben und keine Port Scans bzw. Request erfolgen iptables -L`
 
