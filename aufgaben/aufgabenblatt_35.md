@@ -4,25 +4,32 @@
 
 Erstellen Sie unter Ihrem User, ein Script zum Updaten des Systems (update, upgrade, autoremove, autoclean).
 
-`Hier könnte deine Lösung stehen`
+`#!/bin/bash
+
+sudo apt-get update -y
+sudo apt-get upgrade -y
+sudo autoremove -y 
+sudo autoclean -y
+`
 
 **Aufgabe 2**
 
 Verschieben Sie das Update-Script in ein geeignetes Verzeichnis (Userspezifische programme)
 
-`Hier könnte deine Lösung stehen`
+`sudo mv update-skript.sh /usr/local/bin/update-skript.sh`
 
 **Aufgabe 3**
 
 Geben Sie dem User ROOT die Dateiberechtigungen (owner und gruppe)
 
-`Hier könnte deine Lösung stehen`
+`sudo chown root:root update-skript.sh 
+`
 
 **Aufgabe 4**
 
 Machen Sie das Script nur dem Root Benutzer zugänglich und gewähren Sie nur Ihm Ausführungsrechte
 
-`Hier könnte deine Lösung stehen`
+`sudo chmod u+x update-skript.sh`
 
 **Aufgabe 5**
 
