@@ -35,7 +35,7 @@ Machen Sie das Script nur dem Root Benutzer zugänglich und gewähren Sie nur Ih
 
 Erstellen Sie einen Cronjob der bei jedem Systemstart, mittels des Scriptes überprüft ob Updates verfügbar sind und diese, sofern welche vorhanden sind, voll automatisch installiert
 
-`Hier könnte deine Lösung stehen`
+`@reboot /usr/local/bin/update-skript.sh`
 
 **Aufgabe 6**
 
