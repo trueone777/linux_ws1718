@@ -1,5 +1,5 @@
 # Aufgabenblatt 37
-
+```
 #!/bin/bash
 
 echo "" > 100.log
@@ -33,7 +33,7 @@ do
 
 done
 exit 0
-
+```
 
 **Aufgabe 1**
 
